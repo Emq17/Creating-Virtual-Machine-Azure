@@ -1,4 +1,4 @@
-# Creating-A-Virtual-Machine-Using-Azure
+# Establishing-Virtual-Machines-With-Remote-Desktop
 
 This outlines the steps using Microsoft Azure to create Virtual Machines & having Microsoft Remote Desktop to deploy connection. 
 
