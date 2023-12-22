@@ -56,7 +56,7 @@ This outlines the steps using Microsoft Azure to create Virtual Machines & havin
 ![Screen Shot 2023-12-16 at 8 34 04 PM](https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN/assets/147126755/a6e3065f-0d7b-4090-a24a-8e6be650f177)
 
 - Congratulations. You should be logged into the Windows platform now.
- 
-![261165504-0488a5d6-3007-4e10-befe-0b402554c8b1](https://github.com/Emq17/Creating-Virtual-Machine-Azure/assets/147126755/32e74538-1cfe-46f7-bc77-606818c7a7f5)
+
+![Screen Shot 2023-12-22 at 6 39 20 PM](https://github.com/Emq17/Establishing-Virtual-Machines-With-Remote-Desktop/assets/147126755/b6ac51c3-53f8-4266-a089-d8a89e38e23f)
 
 
