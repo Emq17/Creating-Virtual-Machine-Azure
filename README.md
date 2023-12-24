@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/6HXVA8f.png" alt="Logo"/>
+<img src="https://i.imgur.com/Vh87N7q.png" alt="Logo"/>
 </p>
 
 <h1 align="center">Establishing Virtual Machines With Remote Desktop</h1>
