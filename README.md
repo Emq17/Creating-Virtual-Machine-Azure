@@ -4,7 +4,7 @@
 
 <h1 align="center">Establishing Virtual Machines With Remote Desktop</h1>
 
-This outlines the steps using Microsoft Azure to create Virtual Machines & having Microsoft Remote Desktop to deploy connection. 
+I will show you how to use Microsoft Azure to create Virtual Machines & having Microsoft Remote Desktop to deploy connection. 
 
 <h2>Environments and Technologies</h2>
 
