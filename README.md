@@ -1,4 +1,6 @@
-![Screen Shot 2023-12-24 at 3 31 10 AM](https://github.com/Emq17/Establishing-Virtual-Machines-With-Remote-Desktop/assets/147126755/643f0bfa-e938-4a86-bb89-9f8558a701f0)
+<p align="center">
+<img src="https://i.imgur.com/0K5FxAa.png" alt="Logo"/>
+</p>
 
 # Establishing Virtual Machines With Remote Desktop
 
