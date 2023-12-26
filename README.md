@@ -19,7 +19,7 @@ In this repository, I will guide you through the process of leveraging Microsoft
 
 - Subscription of Microsoft Azure
 
-<h2>Tutorial Steps</h2>
+<h2>Steps</h2>
 
 >**Note***
 >_While creating a Virtual Machine, a Resource Group will automatically be created as well. Knowing how to create a VM should provide a solid base to mess around with future projects._
