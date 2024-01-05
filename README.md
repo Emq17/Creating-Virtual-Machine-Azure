@@ -39,6 +39,7 @@ In this repository, I will guide you through the process of leveraging Microsoft
      
 - Scroll down a bit and choose your preferred size.
 - After that, go ahead and create a Username/Password to be able to log in to your Virtual Machine. Leave everything else as is.
+  - I used "VPN-IP" & "VPN_Demonstration" in order to create this tutorial and also another so don't mind the name
 - Click the box to confirm licensing then hit "Review + create."
 
 ![Screen Shot 2023-12-16 at 8 08 55 PM](https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN/assets/147126755/0bcc5f47-4fd4-4a11-8bd9-08ce7a258cdb)
